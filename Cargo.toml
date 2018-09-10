@@ -1,0 +1,9 @@
+[package]
+name = "yevm"
+version = "0.1.0"
+authors = ["Paweł Bylica <pawel@ethereum.org>"]
+
+[lib]
+path = "src/lib/instructions.rs"
+
+[dependencies]
